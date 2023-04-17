@@ -1,6 +1,6 @@
 # dTASEP-fit
 
-This repository contains software to support M. Cavallaro, Y. Wang, D. Hebenstreit, R. Dutta "Bayesian inference of PolII dynamics over the exclusion process"  (2021) https://arxiv.org/abs/2109.05100
+This repository contains software to support M. Cavallaro, Y. Wang, D. Hebenstreit, R. Dutta "Bayesian inference of PolII dynamics over the exclusion process"  (2022) https://arxiv.org/abs/2109.05100
 
 `samplersKappa.py` defines the MCMC sampler. `dWASEP_2.py` and `dWASEP_2_numba.py` define the PDE solver. `stochastic_sim` includes code for stochastic simulations.
 
