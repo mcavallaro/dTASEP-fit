@@ -1,6 +1,6 @@
 # dTASEP-fit
 
-This repository contains software to support M. Cavallaro, Y. Wang, D. Hebenstreit, R. Dutta "Bayesian inference of polymerase dynamics over the exclusion process" (2023) R. Soc. Open Sci. 10: 221469 [doi:10.1098/rsos.221469](https://doi.org/10.1098/rsos.221469) [ArXiv:2109.05100]{https://arxiv.org/abs/2109.05100}
+This repository contains software to support M. Cavallaro, Y. Wang, D. Hebenstreit, R. Dutta "Bayesian inference of polymerase dynamics over the exclusion process" (2023) R. Soc. Open Sci. 10: 221469 [doi:10.1098/rsos.221469](https://doi.org/10.1098/rsos.221469) [ArXiv:2109.05100](https://arxiv.org/abs/2109.05100)
 
 `samplersKappa.py` defines the MCMC sampler. `dWASEP_2.py` and `dWASEP_2_numba.py` define the PDE solver. `stochastic_sim` includes code for stochastic simulations.
 
